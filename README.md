@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Stepan-Zazyan
+- 👋 Hi, I’m Stepan Zazyan from Saint-Petersburg, Russia
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Spring, Hibernate
+- 📫 How to reach me ... Telegram @StepanZazyan
 
 <!---
 Stepan-Zazyan/Stepan-Zazyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
